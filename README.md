@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there! 👋 I'm Eniyasri
 
-<!--
-**Eniya-2210/Eniya-2210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year B.E. Computer Science and Engineering student at Knowledge Institute of Technology (KIOT), Salem.
 
-Here are some ideas to get you started:
+### 👩‍💻 About Me
+- 🌱 Currently learning C programming.
+- 🐍 Have foundational knowledge of Python.
+- 💡 Interested in software development and problem-solving.
+- 🚀 Exploring the world of computer science, one step at a time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages I'm Learning
+- C
+- Python
+
+### 🎯 My Goal
+To continuously improve my programming skills, explore new technologies, and build meaningful projects throughout my college journey.
+
+### 🔗 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/eniyasri-r-446a82449/)
